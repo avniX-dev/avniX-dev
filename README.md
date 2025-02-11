@@ -19,7 +19,6 @@ Welcome to my cozy corner of GitHub! 💕 I’m a **coder & AI enthusiast** from
 ---
 ### 🌸 Let’s Connect! 🎀
 🐾 **GitHub:** [AvniX-dev](https://github.com/AvniX-dev)  
-🐾 **LinkedIn:** [linkedin.com/in/avniX](#)  
-🐾 **Twitter:** [@AvniX_dev](#)  
+🐾 **Twitter:** [@AvniX_dev](https://x.com/AvniX_dev)  
 
 🐱💖 Keep coding, stay pawsome! (=^･ω･^=)ﾉ🎀
