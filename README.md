@@ -1,24 +1,13 @@
 ### 🌸 Hey there, I’m Avni!  (=^･ω･^=) 🎀
 
-Welcome to my cozy corner of GitHub! 💕 I’m a **coder & AI enthusiast** from **IIIT Hyderabad**, obsessed with all things **Machine Learning, AI, and, of course, CATS!** 🐱✨
 
----
-### 🐾 About Me:
-- 🖥️ **AI & ML Enthusiast** – Love exploring **Computer Vision, NLP, and Deep Learning**
-- 🐈 **Cat Lover** – Code with coffee ☕ and a fluffy cat by my side
-- 🎀 **Aesthetic Enthusiast** – Pink, pastel, and cute themes make life better!
-- 💡 **Hackathon & Open Source Fan** – Always learning, always building! 🚀
+<h4 align="center"><samp> Welcome to my Github! I'm an Open Source Contributor, and space facts are my hobby. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
 
----
-### 💖 Tech Stack:
-🐾 **Languages:** Python, C++, JavaScript  
-🐾 **ML Frameworks:** TensorFlow, PyTorch, OpenCV  
-🐾 **Web & Dev:** HTML/CSS, React, Flask  
-🐾 **Tools & Platforms:** Git, Jupyter, VS Code  
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
----
-### 🌸 Let’s Connect! 🎀
-🐾 **GitHub:** [AvniX-dev](https://github.com/AvniX-dev)  
-🐾 **Twitter:** [@AvniX_dev](https://x.com/AvniX_dev)  
-
-🐱💖 Keep coding, stay pawsome! (=^･ω･^=)ﾉ🎀
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
